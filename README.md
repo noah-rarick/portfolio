@@ -1,4 +1,4 @@
-# Your Name
+# Noah rarick
 
 noah.rarick@gmail.com
 
@@ -8,7 +8,7 @@ http://www.linkedin.com/in/noah-rarick
 
 Data storyteller with a passion for geospatial analysis and web development.
 
-# Work Experience (only last 10 years)
+# Work Experience 
 
 ## University of Washignton (Seattle, WA)
 
