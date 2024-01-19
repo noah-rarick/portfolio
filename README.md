@@ -1,4 +1,4 @@
-# Noah rarick
+# Noah Rarick
 
 noah.rarick@gmail.com
 
