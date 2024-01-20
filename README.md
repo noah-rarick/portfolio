@@ -4,13 +4,15 @@ noah.rarick@gmail.com
 
 http://www.linkedin.com/in/noah-rarick
 
+https://github.com/noah-rarick/seattle-collisions
+
 # Summary
 
 Data storyteller with a passion for geospatial analysis and web development.
 
 # Work Experience 
 
-## University of Washignton (Seattle, WA)
+## University of Washington (Seattle, WA)
 
 * Bachelors of Science, Geography Data Science *
 
@@ -43,3 +45,10 @@ Data storyteller with a passion for geospatial analysis and web development.
 
 ## Skills
     Excel, Git, Tableau, Photoshop, PostgreSQL, Microsoft SQL Server, Mapbox, MySQL, React, Snowflake, Shiny
+
+## Quote By Rick Rubin
+
+> Everything happens kind of the way it's supposed to happen, and we just watch it unfold. ...
+>> -Rick Rubin
+
+<img src='/assets/rick_rubin.jpg'>
